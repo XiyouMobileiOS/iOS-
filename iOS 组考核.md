@@ -25,6 +25,10 @@
 - 包含 界面的 push 和 pop 
 - 自定义你的 leftBarItem, 样式如第一个图的 navagationBar
 
+### 题目四：UIButton 的考察
+- 在 TabBarController 中任何一个控制器里实现对于多个 button 的选中效果，类似于 share 的第二个界面
+- 至少要求有 五个 button 
+
 
 ## 注意：
 三个考核内容可以合并为一个项目，并且最后上传到你的 GitHub 上
